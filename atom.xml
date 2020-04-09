@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cloud.github.io</id>
+    <id>https://cloud-0903.github.io</id>
     <title>CLOUD的个人主页</title>
-    <updated>2020-04-09T09:40:46.240Z</updated>
+    <updated>2020-04-09T09:51:24.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cloud.github.io"/>
-    <link rel="self" href="https://cloud.github.io/atom.xml"/>
+    <link rel="alternate" href="https://cloud-0903.github.io"/>
+    <link rel="self" href="https://cloud-0903.github.io/atom.xml"/>
     <subtitle>by：cloud</subtitle>
-    <logo>https://cloud.github.io/images/avatar.png</logo>
-    <icon>https://cloud.github.io/favicon.ico</icon>
+    <logo>https://cloud-0903.github.io/images/avatar.png</logo>
+    <icon>https://cloud-0903.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, CLOUD的个人主页</rights>
     <entry>
+        <title type="html"><![CDATA[公告]]></title>
+        <id>https://cloud-0903.github.io/post/gong-gao/</id>
+        <link href="https://cloud-0903.github.io/post/gong-gao/">
+        </link>
+        <updated>2020-04-09T09:49:36.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎您来到我的个人主页，承蒙厚爱🙏🙏🙏</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[应用破解]]></title>
-        <id>https://cloud.github.io/post/ying-yong-po-jie/</id>
-        <link href="https://cloud.github.io/post/ying-yong-po-jie/">
+        <id>https://cloud-0903.github.io/post/ying-yong-po-jie/</id>
+        <link href="https://cloud-0903.github.io/post/ying-yong-po-jie/">
         </link>
         <updated>2020-04-09T09:39:42.000Z</updated>
         <content type="html"><![CDATA[<p>百福</p>
@@ -21,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cloud.github.io/post/hello-gridea/</id>
-        <link href="https://cloud.github.io/post/hello-gridea/">
+        <id>https://cloud-0903.github.io/post/hello-gridea/</id>
+        <link href="https://cloud-0903.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
